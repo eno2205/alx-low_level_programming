@@ -7,7 +7,7 @@
  *
  * Return: Always 0.
  */
-int main(int _attribut((_unused_)) argc, char *argv[])
+int main(int _attribut((__unused__)) argc, char *argv[])
 {
 	printf("%s\n", argv[0]);
 
